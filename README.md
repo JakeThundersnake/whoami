@@ -21,7 +21,7 @@ Every great program beings with a single line of code... I'm working on my first
 ### Home Lab
   * Windows11/Windows10/Linux/WSL & Virtual Machines/macOS Monterey
   * Linux Distros: Kali/Ubuntu/Parrot
-  * Wireless Hacking
+  * Wireless Hacking (Man in the Middle/Evil Twin)
 
 ### Groups/Orgs
   * Member of DC 608 Cybersecurity Group
