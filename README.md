@@ -11,6 +11,7 @@ Every great program beings with a single line of code... I'm working on my first
   * [Let's Defend](https://letsdefend.io/)
 
 ### Training and Certification Resources
+  * [University of Wisconsin Madison - Cybersecurity Bootcamp Intro](https://digitalskills.wisc.edu/cybersecurity/cyber-security-training-and-certification-options/)
   * [Simplilearn](https://www.simplilearn.com/)
   * [Udemy](https://www.udemy.com/)
   * [ISC2](https://www.isc2.org/)
@@ -22,5 +23,6 @@ Every great program beings with a single line of code... I'm working on my first
   * Linux Distros: Kali/Ubuntu/Parrot
   * Wireless Hacking
 
-### Meat Space
-  * Member of DC 608 cybersecurity group
+### Groups/Orgs
+  * Member of DC 608 Cybersecurity Group
+  * [ISC2](https://www.isc2.org/) - Candidate
