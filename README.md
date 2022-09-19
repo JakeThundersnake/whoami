@@ -2,8 +2,9 @@
 
 Every great program beings with a single line of code... I'm working on my first few.
 
-Current Daily Foucs/Studies: 
-Introduction to Network Analysis section for Sec Blue Teams
+Current Daily Foucs/Studies:   
+  
+Introduction to Network Analysis section for Securit Blue Teams  
 ISC2 Certified in Cyber Security Self Paced Training
 
 ### Online Labs
@@ -30,3 +31,4 @@ ISC2 Certified in Cyber Security Self Paced Training
 ### Groups/Orgs
   * Member of DC 608 Cybersecurity Group
   * [ISC2](https://www.isc2.org/) - Candidate
+  * Darknet Diaries addict (I can stop whenever I want)
