@@ -2,6 +2,9 @@
 
 Every great program beings with a single line of code... I'm working on my first few.
 
+Certificates:
+
+
 Current Daily Foucs/Studies:   
   
 Introduction to Network Analysis section for Securit Blue Teams  
