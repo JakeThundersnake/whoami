@@ -11,8 +11,8 @@ Intro to Cybersecurity: [Simplilearn](https://www.simplilearn.com/)
 
 ### Daily Focus/Studies:   
   
-Blue Team Junior Analyst: Security Blue Team  
-ISC2 Certified in Cyber Security Self Paced Training: ISC2
+Blue Team Junior Analyst: [Security Blue Teams](https://securityblue.team/)  
+ISC2 Certified in Cyber Security Self Paced Training: [ISC2](https://www.isc2.org/)
 
 ### Online Labs
   * [Hack The Box](www.hackthebox.com)
