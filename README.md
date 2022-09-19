@@ -9,7 +9,7 @@ AWS Security Fundamentals: [AWS Training and Certification](https://www.aws.trai
 Intro to Cybercrime: [Simplilearn](https://www.simplilearn.com/)  
 Intro to Cybersecurity: [Simplilearn](https://www.simplilearn.com/)  
 
-### Current Daily Foucs/Studies:   
+### Daily Focus/Studies:   
   
 Blue Team Junior Analyst: Security Blue Team  
 ISC2 Certified in Cyber Security Self Paced Training: ISC2
