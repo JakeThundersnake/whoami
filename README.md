@@ -2,6 +2,10 @@
 
 Every great program beings with a single line of code... I'm working on my first few.
 
+Current Daily Foucs/Studies: 
+Introduction to Network Analysis section for Sec Blue Teams
+ISC2 Certified in Cyber Security Self Paced Training
+
 ### Online Labs
   * [Hack The Box](www.hackthebox.com)
   * [Blue Team Labs](https://blueteamlabs.online/)
