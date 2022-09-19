@@ -3,12 +3,15 @@
 Every great program beings with a single line of code... I'm working on my first few.
 
 Certificates:
-
+Introduction to Network Analysis: [Security Blue Teams](https://securityblue.team/): Certificate ID 177025043
+AWS Security Fundamentals: [AWS Training and Certification](https://www.aws.training/)
+Intro to Cybercrime: [Simplilearn](https://www.simplilearn.com/)
+Intro to Cybersecurity: [Simplilearn](https://www.simplilearn.com/)
 
 Current Daily Foucs/Studies:   
   
-Introduction to Network Analysis section for Securit Blue Teams  
-ISC2 Certified in Cyber Security Self Paced Training
+Blue Team Junior Analyst: Security Blue Team  
+ISC2 Certified in Cyber Security Self Paced Training: ISC2
 
 ### Online Labs
   * [Hack The Box](www.hackthebox.com)
