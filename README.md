@@ -2,12 +2,13 @@
 
 Every great program beings with a single line of code... I'm working on my first few.
 
-### Certificates:  
+### Certificates/Badges:  
   
 Introduction to Network Analysis: [Security Blue Teams](https://securityblue.team/): Certificate ID 177025043  
 AWS Security Fundamentals: [AWS Training and Certification](https://www.aws.training/)  
 Intro to Cybercrime: [Simplilearn](https://www.simplilearn.com/): Certificate ID 3787401  
 Intro to Cybersecurity: [Simplilearn](https://www.simplilearn.com/)  
+Intro to Cloud Security: [Simplilearn](https://www.simplilearn.com/)  
 
 ### Daily Focus/Studies:   
   
