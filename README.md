@@ -29,7 +29,8 @@ ISC2 Certified in Cyber Security Self Paced Training: [ISC2](https://www.isc2.or
   * [Udemy](https://www.udemy.com/)
   * [ISC2](https://www.isc2.org/)
   * [AWS Training and Certification](https://www.aws.training/)
-  * [Code Academy](https://www.codecademy.com/) (Python)
+  * [Code Academy](https://www.codecademy.com/) (Python) 
+  * [Google Cloud Fundamentals](https://cloudonair.withgoogle.com/events/cloud-onboard-google-cloud-fundamentals)
 
 ### Home Lab
   * Windows11/Windows10/Linux/WSL & Virtual Machines/macOS Monterey
@@ -37,6 +38,7 @@ ISC2 Certified in Cyber Security Self Paced Training: [ISC2](https://www.isc2.or
   * Wireless Hacking (Man in the Middle/Evil Twin)
 
 ### Groups/Orgs
-  * Member of DC 608 Cybersecurity Group
+  * Member of [DC 608](https://www.meetup.com/dc608madison/) Cybersecurity Group
   * [ISC2](https://www.isc2.org/) - Candidate
+  * [Galactic Star Command](https://hackasat.com/) - Fresh Recruit to the team
   * Darknet Diaries addict (I can stop whenever I want)
