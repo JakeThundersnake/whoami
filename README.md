@@ -2,6 +2,10 @@
 
 Every great program beings with a single line of code... I'm working on my first few.
 
+### Daily Focus/Studies:   
+  
+Blue Team Junior Analyst: [Security Blue Teams](https://securityblue.team/)  
+
 ### Certificates/Badges:  
   
 Certified in Cybersecurity: [ISC2](https://isc2.org) 
@@ -16,11 +20,6 @@ Intro to Cloud Security: [Simplilearn](https://www.simplilearn.com/)
   * [ISC2](https://www.isc2.org/) - Member
   * [Galactic Star Command](https://hackasat.com/) - Fresh Recruit to the team
   * Darknet Diaries addict (I can stop whenever I want)
-
-### Daily Focus/Studies:   
-  
-Blue Team Junior Analyst: [Security Blue Teams](https://securityblue.team/)  
-ISC2 Certified in Cyber Security Self Paced Training: [ISC2](https://www.isc2.org/)
 
 ### Online Labs
   * [Hack The Box](www.hackthebox.com)
