@@ -8,7 +8,7 @@ Blue Team Junior Analyst: [Security Blue Teams](https://securityblue.team/)
 
 ### Certificates/Badges:  
   
-Certified in Cybersecurity: [ISC2](https://isc2.org) 
+Certified in Cybersecurity: [ISC2](https://isc2.org). 
 Introduction to Network Analysis: [Security Blue Teams](https://securityblue.team/): Certificate ID 177025043  
 AWS Security Fundamentals: [AWS Training and Certification](https://www.aws.training/)  
 Intro to Cybercrime: [Simplilearn](https://www.simplilearn.com/): Certificate ID 3787401  
