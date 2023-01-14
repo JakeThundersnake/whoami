@@ -4,11 +4,18 @@ Every great program beings with a single line of code... I'm working on my first
 
 ### Certificates/Badges:  
   
+Certified in Cybersecurity: [ISC2](https://isc2.org) 
 Introduction to Network Analysis: [Security Blue Teams](https://securityblue.team/): Certificate ID 177025043  
 AWS Security Fundamentals: [AWS Training and Certification](https://www.aws.training/)  
 Intro to Cybercrime: [Simplilearn](https://www.simplilearn.com/): Certificate ID 3787401  
 Intro to Cybersecurity: [Simplilearn](https://www.simplilearn.com/)  
 Intro to Cloud Security: [Simplilearn](https://www.simplilearn.com/)  
+
+### Groups/Orgs
+  * Member of [DC 608](https://www.meetup.com/dc608madison/) Cybersecurity Group
+  * [ISC2](https://www.isc2.org/) - Member
+  * [Galactic Star Command](https://hackasat.com/) - Fresh Recruit to the team
+  * Darknet Diaries addict (I can stop whenever I want)
 
 ### Daily Focus/Studies:   
   
@@ -36,9 +43,3 @@ ISC2 Certified in Cyber Security Self Paced Training: [ISC2](https://www.isc2.or
   * Windows11/Windows10/Linux/WSL & Virtual Machines/macOS Monterey
   * Linux Distros: Kali/Ubuntu/Parrot
   * Wireless Hacking (Man in the Middle/Evil Twin)
-
-### Groups/Orgs
-  * Member of [DC 608](https://www.meetup.com/dc608madison/) Cybersecurity Group
-  * [ISC2](https://www.isc2.org/) - Candidate
-  * [Galactic Star Command](https://hackasat.com/) - Fresh Recruit to the team
-  * Darknet Diaries addict (I can stop whenever I want)
