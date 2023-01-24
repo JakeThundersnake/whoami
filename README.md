@@ -10,6 +10,7 @@ Blue Team Junior Analyst: [Security Blue Teams](https://securityblue.team/)
   
 Certified in Cybersecurity: [ISC2](https://isc2.org): Certificate ID: 1044389  
 Introduction to Network Analysis: [Security Blue Teams](https://securityblue.team/): Certificate ID 177025043  
+Introduction to OSINT: [Security Blue Teams](https://securityblue.team/): Certificate ID 834035750  
 AWS Security Fundamentals: [AWS Training and Certification](https://www.aws.training/)  
 Intro to Cybercrime: [Simplilearn](https://www.simplilearn.com/): Certificate ID 3787401  
 Intro to Cybersecurity: [Simplilearn](https://www.simplilearn.com/)  
@@ -19,7 +20,7 @@ Intro to Cloud Security: [Simplilearn](https://www.simplilearn.com/)
   * Member of [DC 608](https://www.meetup.com/dc608madison/) Cybersecurity Group
   * [ISC2](https://www.isc2.org/) - Member
   * [Galactic Star Command](https://hackasat.com/) - Fresh Recruit to the team
-  * Darknet Diaries addict (I can stop whenever I want)
+  * Darknet Diaries Addict (Caught up and waiting...)
 
 ### Online Labs
   * [Hack The Box](www.hackthebox.com)
