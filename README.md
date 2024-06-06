@@ -1,7 +1,3 @@
-## Who Am I
-
-Security Analyst
-
 ### Daily Focus/Studies:   
   
 Blue Team Junior Analyst: [Security Blue Teams](https://securityblue.team/)  
